@@ -38,8 +38,8 @@
 # Samples
 
 # Platform Support
--[windows]
--[macOS]
--[Linux]
+- [windows]
+- [macOS]
+- [Linux]
 
 #
