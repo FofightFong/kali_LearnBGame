@@ -1,7 +1,7 @@
 # Learnbgame>LearnByGame
 # Outils
 >Graphisme2D/Texture : Gimp | Photoshop
----
+-
 >Game Engine : unity3D | blender
 
 # Notice
